@@ -6,6 +6,7 @@ ubicacion_ = "c:\papeleria\"
 nombreusuario = "ADMINISTRA"
 nivel_usuario = 2 && Nivel 2 es el Inicio de Administrador
 id_usuario = 1 && Es el ID de usuario en la tabla de Usuarios de la Papeleria
+nombre_depa = "SISTEMAS"
 
 SET DEFA TO &ubicacion_
 

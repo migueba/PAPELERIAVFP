@@ -19,10 +19,10 @@ SET ESCAPE off
 SET ENGINEBEHAVIOR 70
 SET REPORTBEHAVIOR 90
 
-ubi_papeleria = "C:\Sistemas\PROYECTOS2016\Papeleria"
+ubi_papeleria = "C:\PAPELERIA\BD LOCAL\Papeleria"
 *ubi_papeleria = "\\SERVIDORP\proyectos2016$\papeleria"
 OPEN DATABASE ubi_papeleria+"\papeleria.DBC" SHARED 
-ubi_bdcomparte = "C:\Sistemas\BDCOMPARTEP"
+ubi_bdcomparte = "C:\PAPELERIA\BD LOCAL\BDCOMPARTEP"
 *ubi_bdcomparte = "\\SERVIDORP\BDCOMPARTE$"
 OPEN DATABASE ubi_bdcomparte+"\COMPARTIDADB.DBC" SHARED 
 
